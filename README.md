@@ -1,6 +1,6 @@
 # Задача 2. Дилемма заключённого
 
-[![Testing](https://github.com/ptrvsrg/NSU-OOP-CXX-Prisoner-Dilemma/actions/workflows/cmake.yml/badge.svg)](https://github.com/ptrvsrg/NSU-OOP-CXX-Prisoner-Dilemma/actions/workflows/cmake.yml)
+[![Testing](https://github.com/ptrvsrg/Prisoner-Dilemma/actions/workflows/cmake.yml/badge.svg)](https://github.com/ptrvsrg/Prisoner-Dilemma/actions/workflows/cmake.yml)
 
 ### Общие сведения
 Требуется реализовать консольное приложение, позволяющее симулировать повторяющуюся ["Дилемму заключённого”](http://en.wikipedia.org/wiki/Prisoner's_dilemma) для троих заключённых. [Оригинальная задача в курсе SICP](https://github.com/yangchenyun/learning-sicp/blob/master/practices/assignments/06.prisoner-s-dilemma/ps4prs.pdf )
